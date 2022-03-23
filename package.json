@@ -1,0 +1,29 @@
+{
+  "name": "rn-neomorph",
+  "version": "1.0.0",
+  "description": "This package is patched version of react-native-neomorph-shadow.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SUNILmobcoder/rn-neomorph.git"
+  },
+  "keywords": [
+    "neomorph",
+    "shadow",
+    "react",
+    "native"
+  ],
+  "author": "SUNIL KUMAR YADAV",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SUNILmobcoder/rn-neomorph/issues"
+  },
+  "homepage": "https://github.com/SUNILmobcoder/rn-neomorph#readme",
+  "dependencies": {
+    "@react-native-community/art": "^1.2.0",
+    "prop-types": "^15.8.1"
+  }
+}
